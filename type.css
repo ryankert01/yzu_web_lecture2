@@ -3,3 +3,10 @@ body{
     margin: auto !important;
     /* color: #424949 !important; */
 }
+
+
+
+.img-in-head{
+    height: 40px;
+    width:auto;
+}
