@@ -10,3 +10,11 @@ body{
     height: 40px;
     width:auto;
 }
+
+.non-styled-hr{
+    padding: .5px;
+    margin: 16px;
+    color: black;
+    border-top: black;
+    opacity: .7;
+}
