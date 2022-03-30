@@ -18,3 +18,7 @@ body{
     border-top: black;
     opacity: .7;
 }
+
+.comments-inline{
+    padding-left: 15px;
+}
