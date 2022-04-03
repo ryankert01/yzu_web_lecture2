@@ -1,0 +1,8 @@
+canvas{
+    border: 2px solid black;
+    background-image: url(images/grasses68.gif);
+}
+
+.off-margin-between p{
+    margin: 0%;
+}
