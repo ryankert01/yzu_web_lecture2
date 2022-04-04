@@ -19,21 +19,21 @@
     width: 100%;
     opacity: 0;
     transition: .5s ease;
-    background-color: #4375C8;
+    background-color: whitesmoke;
 }
 
 .container:hover .overlay {
-    opacity: 0.7;
+    opacity: .8;
 }
 
 .head-in-hover {
-    color: white;
+    color: black;
     font-size: 20px;
     
 }
 
 .content-in-hover{
-    color: #C5C5C5;
+    color: rgb(61, 61, 61);
     font-size: 15px;
     position: absolute;
     top: 50%;
