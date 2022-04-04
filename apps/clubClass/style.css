@@ -1,9 +1,3 @@
-table {
-    width: 60%;
-    margin: auto;
-    font-size: 1.5em;
-}
-
-td {
-    border-bottom: 1px solid blue;
+.off-margin-between p{
+    margin: 0%;
 }
