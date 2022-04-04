@@ -19,11 +19,11 @@
     width: 100%;
     opacity: 0;
     transition: .5s ease;
-    background-color: #595CD4;
+    background-color: #4375C8;
 }
 
 .container:hover .overlay {
-    opacity: 0.8;
+    opacity: 0.7;
 }
 
 .head-in-hover {
@@ -43,3 +43,4 @@
     transform: translate(-50%, -50%);
     text-align: center;
 }
+

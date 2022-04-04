@@ -4,8 +4,6 @@ body{
     /* color: #424949 !important; */
 }
 
-
-
 .img-in-head{
     height: 40px;
     width:auto;
@@ -21,4 +19,16 @@ body{
 
 .comments-inline{
     padding-left: 15px;
+}
+
+.off-margin-between p{
+    margin: 0%;
+}
+
+a {
+    color: #258cdb;
+    text-decoration: none;
+}
+a:hover {
+    color: #2571db;
 }

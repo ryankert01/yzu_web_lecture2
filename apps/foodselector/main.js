@@ -21,7 +21,7 @@ var myModal3 = new bootstrap.Modal(document.getElementById('staticBackdrop'), {
 userList.add({
   name: 'Instant noodles',
   id: 2,
-  image: 'https://cdn-icons.flaticon.com/png/512/2515/premium/2515309.png?token=exp=1649063713~hmac=f05a88bab2f175b015d0a58a9379486d',
+  image: '../../images/instant-noodles.png',
 });
 
 var idField = $('#id-field'),
